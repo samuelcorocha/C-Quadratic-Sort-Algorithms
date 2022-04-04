@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1648764788 source:d:\users\samuelcorocha\documents\aeds\aeds2\lab6\bolha.c
+	"geracao.h"
+	"bolha.h"
+	<stdio.h>
+
+1648775036 d:\users\samuelcorocha\documents\aeds\aeds2\lab6\geracao.h
+	<stdbool.h>
+	<stdint.h>
+
+1648775036 d:\users\samuelcorocha\documents\aeds\aeds2\lab6\bolha.h
+
+1648932591 source:d:\users\samuelcorocha\documents\aeds\aeds2\lab6\geracao.c
+	"geracao.h"
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<stdint.h>
+
+1648775036 source:d:\users\samuelcorocha\documents\aeds\aeds2\lab6\insercao.c
+	"insercao.h"
+
+1648775036 d:\users\samuelcorocha\documents\aeds\aeds2\lab6\insercao.h
+	"geracao.h"
+
+1648775036 source:d:\users\samuelcorocha\documents\aeds\aeds2\lab6\selecao.c
+	"selecao.h"
+
+1648775036 d:\users\samuelcorocha\documents\aeds\aeds2\lab6\selecao.h
+	"geracao.h"
+
+1648935477 source:d:\users\samuelcorocha\documents\aeds\aeds2\lab6\main.c
+	"bolha.h"
+	"insercao.h"
+	"selecao.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdint.h>
+	<windows.h>
+	<winbase.h>
+	<psapi.h>
+
